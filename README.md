@@ -1,4 +1,7 @@
 # Study Notebooks
 
-* 勉強したこととか思い付きのメモ．
+勉強したこととか覚書を綴るノート．
 
+## Wiki
+
+https://github.com/eqs/notebooks/wiki
